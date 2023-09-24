@@ -1,0 +1,27 @@
+body {
+    background-image: url("static/images/back.jpg") !important ;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+h3 {
+
+    color: rgb(113, 6, 6);
+    display: inline-block;
+    border: 2px solid #333;
+    border-left: 2px solid #333; 
+    border-right: 2px solid #333; 
+    padding: 10px;
+    margin:0;
+}
+h1 {
+    border: 2px solid #333;
+    
+    display: inline-block; 
+    border-left: 2px solid #333; 
+    border-right: 2px solid #333; 
+    padding: 10px;
+   
+    
+}
